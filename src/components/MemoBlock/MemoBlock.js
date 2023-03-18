@@ -6,7 +6,7 @@ const MemoBlock = ({animating, handleMemoClick, memoBlock}) => (
     
             <div className = "memo-block-front">
             </div>    
-            <div className="memo-block-back">
+            <div className ="memo-block-back">
                 {memoBlock.emoji}
             </div>
         </div> 
